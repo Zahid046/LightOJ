@@ -1,2 +1,2 @@
-LightOJ Accepted solutions.\n
+LightOJ Accepted Solutions
 Handle:  MD. ZAHID MAHMUD EMON
